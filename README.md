@@ -1,14 +1,19 @@
 # Design-Architecture
+
 Repository for System Design, software Architecture, and Technical Specifications
 Centralized Hub for Architectural Patterns, Design Principles, and Best Practices
+Sample Diagrams etc.
 Collection of Design Documents for [Project Name]
 
 - Design and Architecture Repository
 - System Design and Architecture Documentation
 - Technical Design Documents
 - Architecture Blueprints
--  Design Principles, Architecture Patterns,Design Patterns, and Best Practices
+- Design Principles, Architecture Patterns,Design Patterns, and Best Practices
+- Software Architecture and Design
 
+## References
+[bytebytego.com System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 
 ## Diagram-as-a-code
 ### general guidance
