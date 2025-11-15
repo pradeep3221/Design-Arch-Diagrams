@@ -1,3 +1,3 @@
-# Communication
+# Event Driven Microservices
 
-This folder contains diagrams and documentation for microservices communication patterns.
+This folder contains diagrams and documentation for event-driven microservices patterns.

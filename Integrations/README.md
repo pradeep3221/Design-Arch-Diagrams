@@ -1,3 +1,4 @@
 # Integrations
 
-This folder contains diagrams and documentation for various integration patterns and solutions.
+This folder contains resources for integrations, including:
+- API gateways, ETL, webhooks, service mesh, B2B integrations

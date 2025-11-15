@@ -1,5 +1,7 @@
+# Git Flows
 
-
+This folder contains documentation for Git workflows, including:
+- Feature branching, release flow, trunk-based development
 
 ```mermaid
 gitGraph 

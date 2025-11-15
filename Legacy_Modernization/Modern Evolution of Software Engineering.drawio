@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.2">
+  <diagram name="Upgraded Evolution" id="0">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="da78f132-4965-46d1-b376-b102aa828cd8" value="Development Process" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#666666;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="100" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d212d573-c914-4619-b0c6-c77a11277043" value="Waterfall → Agile → DevOps → DevSecOps → Platform Eng → AI Dev" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="520" y="100" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00a3ed89-fd9e-4c1f-85ad-f00281dbbd48" value="Application Architecture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#666666;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="210" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4b6e624-7bfa-4251-916d-8864d6df9575" value="Monolith → Microservices → Event-driven → Serverless → AI-Native → Edge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="520" y="210" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8126f2ca-f6fe-4998-8743-5d7bdff9300f" value="Deployment &amp; Packaging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#666666;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7ea3fcf8-31b8-4672-98df-8ffa3abce92c" value="Physical → VM → Containers → Kubernetes → Serverless → WASM → GitOps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="520" y="320" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7e873c5a-0fa7-434b-99e2-241c008a8b68" value="Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#666666;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="430" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3f4ea089-2ba2-4eaa-8af6-83aebf058cbd" value="Datacenter → Cloud → Multi-cloud → Hybrid → Edge → AI Infra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="520" y="430" width="700" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
